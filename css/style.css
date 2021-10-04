@@ -114,7 +114,9 @@ img{
   }
 
   #steps .row .left, #steps .row .central, #steps .row .right {
-    min-width: 33%;
+    width: 100%;
+    float: none;
+    padding-bottom: 15px;
   }
 
   #why .row > .first,
